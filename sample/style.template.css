@@ -1,0 +1,13 @@
+.container {
+	display: inline-flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	width: 100%;
+}
+.card {
+	padding-top: {PADDING_TOP}%;
+	padding-left: {PADDING_LEFT}%;
+}
+img {
+	width: 100%
+}
